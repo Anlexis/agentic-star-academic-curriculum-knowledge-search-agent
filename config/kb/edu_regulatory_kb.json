@@ -1,0 +1,151 @@
+[
+  {
+    "id": "kb-001",
+    "title": "Minimum credit-hour requirements under the MEXT course-of-study guideline",
+    "category": "mext_course_of_study",
+    "source": "MEXT course-of-study guideline, credit calculation overview note",
+    "tags": [
+      "credit",
+      "hour",
+      "unit",
+      "calculation",
+      "degree",
+      "program"
+    ],
+    "content": "The course-of-study guideline sets the standard credit-hour calculation for degree programs: one credit corresponds to 45 hours of total student work, combining scheduled class time with required preparation and review. Lecture and seminar courses typically require 15 to 30 hours of scheduled instruction per credit, while laboratory, practicum, and physical-education courses require a higher proportion of scheduled contact hours. Institutions must document the credit-hour justification for every course in the syllabus and may not award credit for scheduled time alone without the associated outside-of-class workload."
+  },
+  {
+    "id": "kb-002",
+    "title": "Curriculum mapping and three-policy alignment",
+    "category": "curriculum_requirements",
+    "source": "Curriculum design handbook, policy alignment chapter",
+    "tags": [
+      "curriculum",
+      "mapping",
+      "diploma",
+      "policy",
+      "admission",
+      "alignment"
+    ],
+    "content": "Every degree program must maintain a curriculum map showing how each required course contributes to the learning outcomes stated in the diploma policy, and how the diploma policy in turn aligns with the curriculum policy (course sequencing and prerequisite structure) and the admission policy (expected incoming competencies). Programs must review this three-policy alignment whenever a course is added, removed, or materially changed, and keep the map available for institutional and external accreditation review."
+  },
+  {
+    "id": "kb-003",
+    "title": "NIAD-QE institutional accreditation cycle and self-study report",
+    "category": "niad_qe_accreditation",
+    "source": "NIAD-QE institutional accreditation handbook, cycle overview",
+    "tags": [
+      "niad-qe",
+      "accreditation",
+      "cycle",
+      "self-study",
+      "report"
+    ],
+    "content": "Institutions undergo NIAD-QE certified evaluation on a fixed multi-year cycle, generally every seven years, and must submit a self-study report analysing compliance with the accreditation standards ahead of the site visit. The self-study report covers governance, curriculum, faculty resources, student support, and quality-management mechanisms, and must cite the internal data sources used for each self-assessment claim. A follow-up report is required when the evaluation identifies items needing improvement."
+  },
+  {
+    "id": "kb-004",
+    "title": "Faculty qualification review standards for new academic programs",
+    "category": "niad_qe_accreditation",
+    "source": "NIAD-QE faculty qualification review guidance",
+    "tags": [
+      "faculty",
+      "qualification",
+      "review",
+      "new",
+      "program",
+      "screening"
+    ],
+    "content": "Before a new degree program can be established, every faculty member proposed to teach a core course must undergo a faculty qualification review confirming their research record, relevant teaching experience, and terminal degree or equivalent professional achievement in the field. The review committee documents the basis for each qualification decision, and the institution must maintain qualification records for the life of the program for accreditation follow-up."
+  },
+  {
+    "id": "kb-005",
+    "title": "Syllabus disclosure and learning outcome documentation",
+    "category": "curriculum_requirements",
+    "source": "Curriculum requirements handbook, syllabus standards chapter",
+    "tags": [
+      "syllabus",
+      "disclosure",
+      "learning",
+      "outcome",
+      "grading",
+      "documentation"
+    ],
+    "content": "Every course syllabus must disclose its intended learning outcomes, weekly schedule, grading criteria and weighting, and the credit-hour justification linking scheduled and outside-of-class workload to the awarded credit value. Learning outcomes must be stated in measurable terms and mapped to at least one diploma-policy competency. Syllabi must be published to enrolled students before the add/drop deadline each term and archived for at least the length of the accreditation cycle."
+  },
+  {
+    "id": "kb-006",
+    "title": "Institutional policy on curriculum change approval workflow",
+    "category": "institutional_policy",
+    "source": "Institutional governance policy, curriculum change procedure",
+    "tags": [
+      "institutional",
+      "policy",
+      "curriculum",
+      "change",
+      "approval",
+      "governance"
+    ],
+    "content": "A proposed curriculum change — a new course, a course removal, or a change to required credit hours — must be reviewed by the department curriculum committee, then the faculty senate curriculum subcommittee, before taking effect. Minor changes such as course-title corrections may follow an expedited chair-approval path, but any change affecting the diploma policy or total required credits must complete the full faculty senate review and be logged in the institutional curriculum change register."
+  },
+  {
+    "id": "kb-007",
+    "title": "MEXT guideline on general education and liberal arts credit allocation",
+    "category": "mext_course_of_study",
+    "source": "MEXT course-of-study guideline, general education requirements",
+    "tags": [
+      "general",
+      "education",
+      "liberal",
+      "arts",
+      "credit",
+      "allocation"
+    ],
+    "content": "The course-of-study guideline requires every undergraduate program to allocate a minimum share of total graduation credits to general education and liberal arts courses spanning humanities, social science, and natural science categories, in addition to foreign-language and health/physical-education requirements. Programs must publish the general-education credit allocation in the curriculum policy and may not substitute major-specific coursework for the general-education minimum without a documented curriculum-committee exception."
+  },
+  {
+    "id": "kb-008",
+    "title": "Grade point average and academic standing policy",
+    "category": "institutional_policy",
+    "source": "Institutional academic standing policy",
+    "tags": [
+      "gpa",
+      "grade",
+      "point",
+      "average",
+      "academic",
+      "standing",
+      "probation"
+    ],
+    "content": "Cumulative grade point average is computed on a fixed numeric scale across all credit-bearing coursework attempted at the institution, excluding courses taken on a pass/fail basis. A student whose cumulative GPA falls below the published threshold for two consecutive terms is placed on academic probation and must complete an advising plan; continued shortfall after probation can lead to dismissal under the institution's academic standing policy, subject to a documented appeal process."
+  },
+  {
+    "id": "kb-009",
+    "title": "NIAD-QE certified evaluation standards for distance-learning programs",
+    "category": "niad_qe_accreditation",
+    "source": "NIAD-QE distance-learning certified evaluation standard",
+    "tags": [
+      "niad-qe",
+      "distance",
+      "learning",
+      "online",
+      "quality",
+      "assurance"
+    ],
+    "content": "Distance-learning and online degree programs are evaluated against the same accreditation standards as in-person programs, plus additional criteria covering learning-management-system reliability, identity verification for assessments, and documented equivalence of learning outcomes between the online and in-person delivery modes. Institutions offering a distance-learning program must report separately on student engagement metrics and completion rates for that delivery mode in the self-study report."
+  },
+  {
+    "id": "kb-010",
+    "title": "MEXT credit-hour equivalency for internship and practicum courses",
+    "category": "mext_course_of_study",
+    "source": "MEXT course-of-study guideline, experiential learning credit note",
+    "tags": [
+      "internship",
+      "practicum",
+      "credit",
+      "equivalency",
+      "experiential"
+    ],
+    "content": "Internship and practicum courses convert supervised field hours into academic credit using a higher hours-per-credit ratio than classroom instruction, reflecting the lower proportion of structured outside-of-class preparation. Programs must document the supervising-organisation agreement, the learning objectives assessed during the placement, and the faculty evaluation method before awarding credit, and may not award credit for hours that lack a documented learning objective."
+  }
+]

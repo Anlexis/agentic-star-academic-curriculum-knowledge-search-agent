@@ -1,0 +1,22 @@
+# Runtime parameters — loaded by AgentRegistry, passed as Graph(config=...).
+# Separate from config/agent.yaml (the static manifest).
+
+max_retry: 3
+timeout_s: 30
+
+# Retrieval tuning — forwarded to the inner DomainWorkflowGraph by
+# CurriculumKnowledgeGraphNode._parent_config() under
+# config["configurable"]["retrieval"]; RetrieveNode / RerankFilterNode read
+# top_k / score_threshold from the state-seeded retrieval_config field
+# (fallback: module defaults mirroring these values).
+retrieval:
+  top_k: 4
+  score_threshold: 0.25
+  kb_path: "config/kb/edu_regulatory_kb.json"
+
+# LLM settings — the current release is deterministic (no live LLM call; see
+# docs/02_design.md "Implementation Note — LLM synthesis"). Forwarded verbatim
+# under config["configurable"]["llm"] for the documented LLM-synthesis upgrade.
+llm:
+  temperature: 0.0
+  max_tokens: 1500
